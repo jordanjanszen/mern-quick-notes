@@ -1,6 +1,6 @@
 import { useState } from 'react';
 import { Routes, Route } from 'react-router-dom';
-import { getUser } from '../../utilities/user-service';
+import { getUser } from '../../utilities/users-service';
 import './App.css';
 
 // Import the components
